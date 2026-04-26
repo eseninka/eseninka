@@ -13,6 +13,10 @@
 - Протоколы: MQTT, Git
 - Среды разработки: PyCharm, Arduino IDE, Jupyter Notebook
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eseninka&layout=compact)](https://github.com/eseninka/github-readme-stats)
+
+
 📌 **Проекты на GitHub:**
 - [**SmartSocket**](https://github.com/eseninka/SmartSocket) – интеллектуальная розетка для мониторинга электропотребления (IoT, ESP32, Python, PostgreSQL, MQTT)
 - [**SolarPower**](https://github.com/eseninka/SolarPower) – станция с подвижными солнечными панелями для альтернативной энергетики (Arduino, C++, 3D-моделирование)
@@ -26,6 +30,16 @@
 - Java
 - Продвинутые методы машинного обучения
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eseninka&show_icons=true&theme=radical)
+
+
 📫 **Контакты:**
 - Telegram: [@esenin_k_a](https://t.me/esenin_k_a)
 - GitHub: [@eseninka](https://github.com/eseninka)
+
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
