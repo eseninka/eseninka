@@ -39,7 +39,6 @@
 - Telegram: [@esenin_k_a](https://t.me/esenin_k_a)
 - GitHub: [@eseninka](https://github.com/eseninka)
 
-
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed)
 
 
