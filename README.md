@@ -18,3 +18,5 @@ I write code, drink coffee, and occasionally fix the bugs I created myself.
 
 ## ☕ Let's connect!
 If you want to talk about code, movies, or why semicolons are controversial, feel free to reach out.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eseninka)](https://git.io/streak-stats)
